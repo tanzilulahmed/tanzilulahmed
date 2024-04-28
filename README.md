@@ -1,4 +1,4 @@
-<p align="left">👋 Tanzil here! Frontend developer & designer 🎨 Passionate about crafting beautiful user experiences with clean code 💻 Let's build something amazing together! 💡</p>
+<p align="left">Full Stack Developer & UI/UX Designer | MERN Enthusiast | Crafting clean code & seamless experiences | Let's build together! 🚀</p>
 
 ###
 
